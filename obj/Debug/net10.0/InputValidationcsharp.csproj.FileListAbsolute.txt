@@ -1,0 +1,14 @@
+C:\Naseer Documents\New folder\InputValidationcsharp\bin\Debug\net10.0\InputValidationcsharp.exe
+C:\Naseer Documents\New folder\InputValidationcsharp\bin\Debug\net10.0\InputValidationcsharp.deps.json
+C:\Naseer Documents\New folder\InputValidationcsharp\bin\Debug\net10.0\InputValidationcsharp.runtimeconfig.json
+C:\Naseer Documents\New folder\InputValidationcsharp\bin\Debug\net10.0\InputValidationcsharp.dll
+C:\Naseer Documents\New folder\InputValidationcsharp\bin\Debug\net10.0\InputValidationcsharp.pdb
+C:\Naseer Documents\New folder\InputValidationcsharp\obj\Debug\net10.0\InputValidationcsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Naseer Documents\New folder\InputValidationcsharp\obj\Debug\net10.0\InputValidationcsharp.AssemblyInfoInputs.cache
+C:\Naseer Documents\New folder\InputValidationcsharp\obj\Debug\net10.0\InputValidationcsharp.AssemblyInfo.cs
+C:\Naseer Documents\New folder\InputValidationcsharp\obj\Debug\net10.0\InputValidationcsharp.csproj.CoreCompileInputs.cache
+C:\Naseer Documents\New folder\InputValidationcsharp\obj\Debug\net10.0\InputValidationcsharp.dll
+C:\Naseer Documents\New folder\InputValidationcsharp\obj\Debug\net10.0\refint\InputValidationcsharp.dll
+C:\Naseer Documents\New folder\InputValidationcsharp\obj\Debug\net10.0\InputValidationcsharp.pdb
+C:\Naseer Documents\New folder\InputValidationcsharp\obj\Debug\net10.0\InputValidationcsharp.genruntimeconfig.cache
+C:\Naseer Documents\New folder\InputValidationcsharp\obj\Debug\net10.0\ref\InputValidationcsharp.dll

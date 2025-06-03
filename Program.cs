@@ -3,11 +3,7 @@ using System.Collections.Generic;
 
 public class ParenthesesValidator
 {
-    /// <summary>
-    /// Validates if the parentheses in a string are properly balanced
-    /// </summary>
-    /// <param name="input">The string to validate</param>
-    /// <returns>True if parentheses are balanced, false otherwise</returns>
+    
     public static bool ValidateParentheses(string input)
     {
         Stack<char> stack = new Stack<char>();
